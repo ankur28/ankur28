@@ -4,16 +4,17 @@
 
 **Tech Stack:**
 
-*  Java  (https://en.wikipedia.org/wiki/Java_%28programming_language%29)
-*  JavaScript  (https://en.m.wikipedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg)
-*  HTML5  (https://en.wikipedia.org/wiki/Wikipedia:HTML5)
-*  CSS3  (https://en.wikipedia.org/wiki/CSS3_%28disambiguation%29)
-*  React.js  (https://react-icons.github.io/react-icons/)
-*  PostgreSQL  (https://www.elephantsql.com/)
-*  Firebase  (https://firebase.google.com/brand-guidelines)
-*  MongoDB  (https://www.mongodb.com/brand-resources)
-*  (Learning) Next.js  (https://nextjs.org/docs/app/api-reference/file-conventions/metadata/app-icons)
-*  (Learning) Supabase  (https://supabase.com/brand-assets)
+*  Java  (https://en.wikipedia.org/wiki/Java_%28programming_language%29) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/java.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/java.svg)
+*  JavaScript  (https://en.m.wikipedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/javascript.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/javascript.svg)
+*  HTML5  (https://en.wikipedia.org/wiki/Wikipedia:HTML5) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/html5.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/html5.svg)
+*  CSS3  (https://en.wikipedia.org/wiki/CSS3_%28disambiguation%29) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/css3.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/css3.svg)
+*  React.js  (https://react-icons.github.io/react-icons/) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/react.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/react.svg)
+*  PostgreSQL  (https://www.elephantsql.com/) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/postgresql.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/postgresql.svg)
+*  Firebase  (https://firebase.google.com/brand-guidelines) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/firebase.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/firebase.svg)
+*  MongoDB  (https://www.mongodb.com/brand-resources) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/mongodb.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/mongodb.svg)
+*  (Learning) Next.js  (https://nextjs.org/docs/app/api-reference/file-conventions/metadata/app-icons) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/nextjs.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/nextjs.svg)
+*  (Learning) Supabase  (https://supabase.com/brand-assets) - [Icon: https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/supabase.svg](https://cdn.jsdelivr.net/npm/simple-icons@v5.0.0/icons/supabase.svg)
+
 
 **What I'm Currently Learning:**
 
