@@ -1,6 +1,6 @@
 ## Ankur Kalson: Software Developer ‍💻 
 
-**Hey there!** 
+**Hey there! ** 
 A little about me... 😃
 I'm Ankur, a passionate software developer with 3+ years of experience building innovative applications. When I'm not coding, you'll find me exploring the outdoors, traveling the world ✈️, hitting the gym, busting a move, or just gaming lol.
 
@@ -12,9 +12,9 @@ I'm Ankur, a passionate software developer with 3+ years of experience building 
   </a>
 </p>
 
-** ⚡️ What I'm Currently Learning:**
+ ⚡️ What I'm Currently Learning:
 
-I'm always eager to expand my skillset, and these days I'm diving deeper into the world of Next.js and Supabase to build even more powerful and scalable web applications! 
+I'm always eager to expand my skillset, and these days I'm diving deeper into the world of Next.js and Supabase to build even more powerful and scalable web applications and practicing DSA ! 
 
 **Let's Connect!**
 
